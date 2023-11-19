@@ -10,7 +10,7 @@
 
 ### HW3
   1. CSP: AC3-LCV-MRV (sudoku solving)
-  2. Minmax Algorithm (othello)
+  2. Minimax Algorithm (othello)
 
 ### HW4
   1. Bayesian Network
