@@ -13,8 +13,8 @@
   2. Minmax Algorithm (othello)
 
 ### HW4
-  1. Bysian Network
-  2. Bysian Sampling
+  1. Bayesian Network
+  2. Bayesian Sampling
 
 ### HW5
   1. Partial Filtering
